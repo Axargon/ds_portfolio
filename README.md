@@ -5,7 +5,7 @@
 </p>
 
 # Alex Arantes Gonçalves
-<sub>* Data Scientist Student* at Univesp</sub>
+<sub>*Data Scientist Student* at Univesp</sub>
 
 As a experienced Science Application professional with more than 17 years of experience I combine analytical skills, ability to work in team environments, and attention to details. Having recentely succesfully directed my career towards Data Analysis acquiring the skills to extract, transform, load data into diverse sorts of data structures, and harnessing them to build data visualization dashboards, I developed a critical thinking and problem-solving skills.
 
