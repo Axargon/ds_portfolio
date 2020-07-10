@@ -18,10 +18,10 @@ At the moment working on my second Bacharel´s degree to became a Data Scientist
 * [LinkedIn](https://www.linkedin.com/in/alexarantesgoncalves/)
 
 ## Projetos:
-<!--Veja os tutoriais publicados do Sigmoidal:
+Veja os lista de projetos publicados:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+* **[Análise dos Dados do Airbnb - Toronto](https://github.com/Axargon/ds_portfolio/blob/master/Analisando_os_Dados_do_Airbnb_Toronto.ipynb)**
+<!-- **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
