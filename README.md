@@ -5,17 +5,18 @@
 </p>
 
 # Alex Arantes Gonçalves
-<sub>*Data Science Student* at Univesp</sub>
+<sub>*Estudante de Ciência de dados* na Univesp</sub>
 
-As a experienced Science Application professional with more than 17 years of experience I combine analytical skills, ability to work in team environments, and attention to details. Having recentely succesfully directed my career towards Data Analysis acquiring the skills to extract, transform, load data into diverse sorts of data structures, and harnessing them to build data visualization dashboards, I developed a critical thinking and problem-solving skills.
+Como experiente profissional em Ciências aplicadas com mais de 17 anos de experiência, possuo uma combinação de habilidades analíticas, capacidade de trabalho em equipe e atenção aos detalhes. Tendo recentemente direcionado minha carreira com sucesso para a área de Análise de dados, tenho adquirido as habilidades de extrair, transformar e carregar os mesmos de diversas origens e formatos para estruturas de dados em ambientes analiticos, e utiliza-los para criação de *dashboards* para visualização de informações.
 
-At the moment working on my second Bacharel´s degree to became a Data Scientist at Universidade Virtual do Estado de São Paulo, I already own Bacharel in Science and Technology degree by Universidade Federal do ABC, on of the most prestigious Universities in Brazil.
+No momento estou trabalhando na minha segunda graduação em Bacharelado de Ciência de dados na UNIVESP de São Paulo, eu já possuo Bacharelado em Ciência e Tecnologia pela Universidade Federal do ABC, uma das mais prestigiadas Universidades brasileiras.
 
-**Background in:** Data vizualization, integration, Python, and taken my first stps towards Data Science.
+
+**Experiência em:** Consolidação e visualização de dados, programação em Python, e diversas técnicas de Ciência de dados.
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/alexarantesgoncalves/)
+* [LinkedIn](https://www.linkedin.com/in/alexarantesgoncalves/?locale=pt_BR)
 
 ## Projetos:
 Veja os lista de projetos publicados:
